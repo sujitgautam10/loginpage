@@ -1,6 +1,6 @@
 # Aarambha – Flutter Login & Registration UI
 
-A clean Login and Registration interface built with Flutter as a university assignment.
+A clean Login and Registration interface built with Flutter as a assignment.
 
 ## Features
 - Login page with email/username and password fields
