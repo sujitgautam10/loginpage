@@ -17,18 +17,6 @@ A clean Login and Registration interface built with Flutter as a university assi
 - Material 3 widgets
 - Named-route navigation
 
-## How to Run
-1. Install [Flutter](https://docs.flutter.dev/get-started/install)
-2. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
-   ```
-3. Get dependencies and run:
-   ```bash
-   flutter pub get
-   flutter run
-   ```
 
 ## Project Structure
 ```
